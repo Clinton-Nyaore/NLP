@@ -1,0 +1,2 @@
+1. SpeechRecognition.
+2. PyAudio. For this first run  (pip install pipwin) then (pipwin install pyaudio).
